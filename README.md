@@ -10,7 +10,7 @@ Special thanks to Professor Diego Rodriguez (https://github.com/roca12), a light
 Project uploaded to AWS cloud.
 
 
-GenericStore is a development project for an administrative management platform that can be adapted to any use case of the commercial reality.
+GenericStore is an administrative management platform development project.  Although it can be adapted to any use case of the commercial and business reality, I have chosen farmers communities as my use case.  In consecuence, this platform is apt to the needs of the local farmers communities business.  
 
 The platform is structured in the following modules:
 
