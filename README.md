@@ -21,16 +21,22 @@ The platform is structured in the following modules:
 - Purchase module
 - Sells module
 
-Each module has its own functionalities.
+Each module has its own functionalities: create, update, get and delete registers.
 
 LOGIN 
 
-![imagen](https://user-images.githubusercontent.com/83882464/138945648-9fa25a37-0d97-4490-8a27-d203eb3761ee.png)
+![imagen](https://user-images.githubusercontent.com/83882464/138946542-3322e516-2209-4090-a514-aa197b0fffcf.png)
 
 
 USER MODULE
 
 ![imagen](https://user-images.githubusercontent.com/83882464/138946244-027c8689-b1c9-4c39-852c-a23633ab1aa9.png)
+(list all the users function)
+
+CLIENTS MODULE
+
+![imagen](https://user-images.githubusercontent.com/83882464/138947515-dcb492b4-bacc-4820-95aa-02b1923bbefe.png)
+(create new client function)
 
 
 
