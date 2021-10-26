@@ -59,7 +59,7 @@ PURCHASE MODULE
 SELLS MODULE
 
 ![imagen](https://user-images.githubusercontent.com/83882464/138950617-d42337c7-ecfe-4176-9221-8763e4c33f51.png)
-(create a new sell)
+(create a new sell function)
 
 
 
