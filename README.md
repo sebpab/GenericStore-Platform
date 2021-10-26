@@ -23,9 +23,14 @@ The platform is structured in the following modules:
 
 Each module has its own functionalities.
 
+LOGIN 
+
 ![imagen](https://user-images.githubusercontent.com/83882464/138945648-9fa25a37-0d97-4490-8a27-d203eb3761ee.png)
 
 
+USER MODULE
+
+![imagen](https://user-images.githubusercontent.com/83882464/138946244-027c8689-b1c9-4c39-852c-a23633ab1aa9.png)
 
 
 
